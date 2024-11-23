@@ -1,1 +1,2 @@
 # Talon-SRX-swerve-YAGSL
+I am decently inexperienced with swerve as this is my first experience programming it so bear with the mistakes, We are using swerve xs modules with krakens running the drive motors and reline motors controlled by talon srx's for the angular motor. We are using srx mag encoders for absolute encoders and a nav x for our gyro. THe krakens drive correctly as done in YAGSL however only the left two angle motors want to listen to feedback and face the direction of the joystick. THe right side of the drive train just spin uncontrollably when enabled.
